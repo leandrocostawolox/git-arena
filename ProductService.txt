@@ -3,3 +3,5 @@ createProduct(...)
 deleteProduct(...)
 
 updateProduct(...)
+
+associatePersonToProduct(...)
